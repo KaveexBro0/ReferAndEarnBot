@@ -1,6 +1,3 @@
-# ReferAndzEarn_bot - chat bot
-It is repository for chat bot: [@ReferAndzEarn_bot](https://t.me/ReferAndzEarn_bot)
-
 # [Refer&Earn Bot](https://t.me/ReferAndzEarn_bot) (REB) - Bots.Business Contest Submission
 
 ## Overview
